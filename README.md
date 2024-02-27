@@ -9,16 +9,23 @@ Dollphone is an icon pack that is very cute, but isn’t too hyper. The icons av
 
 Dollphone Icon Pack is a crystallization of years of passion for the “yurukawa” aesthetic.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+[<img src="https://gitlab.com/fdroid/artwork/-/blob/master/badge/get-it-on-en.svg"
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/me.x2gd4.dollphone/)
 
-Or download the latest APK from the [Releases Section](https://github.com/JapanYoshi/dollphone-foss/releases/latest).
+Or download the latest APK from the [Releases Section](https://github.com/JapanYoshi/dollphone-foss/releases/latest)! F-Droid takes a bit of extra time to update.
 
 ## 日本語
 Dollphone は、かわいいけど元気すぎないアイコンパックです。極彩色や暗い色を避けて、外側に近づくにつれ少しずつ線を膨らませることによって、ぬいぐるみのようなふわっとした触感を演出しています。
 
 Dollphone アイコンパックは、何年もまたいだ『ゆるかわ』への情熱の結晶です。
+
+
+[<img src="https://gitlab.com/fdroid/artwork/-/blob/master/badge/get-it-on-ja.svg"
+     alt="F-Droid で手に入れよう"
+     height="80">](https://f-droid.org/ja/packages/me.x2gd4.dollphone/)
+
+もしくは、 [「リリース」セクション](https://github.com/JapanYoshi/dollphone-foss/releases/latest)から最新のAPKをダウンロードしてください！ F-Droid を更新するには少し時間がかかります。
 
 ---
 
@@ -32,7 +39,7 @@ The app has an in-built feature to request missing icons. Simply follow the on-s
 
 First of all, thank you for your interest in this project! Making and maintaining an icon pack is hard work, so I need all the help you can get.
 
-Please refer to [the contributor help document](https://github.com/JapanYoshi/dollphone-foss/blob/main/help/how_to_contribute.md).
+Please refer to [the contributor help document](./help/how_to_contribute.md), and check [the Issues](https://github.com/JapanYoshi/dollphone-foss/issues) to see which icons have been requested.
 
 # License
 ```
