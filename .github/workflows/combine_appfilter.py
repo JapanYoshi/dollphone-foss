@@ -12,7 +12,7 @@ github_token = os.getenv('GITHUB_TOKEN')
 g = Github(github_token)
 
 # Get the repository
-repo = g.get_repo("Arcticons-Team/Arcticons")
+repo = g.get_repo("JapanYoshi/dollphone-foss")
 
 def combine_xml_files(input_files, output_file):
     unique_components = set()
