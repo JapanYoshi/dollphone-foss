@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" enable-background="new" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="filter2" x="-1" y="-1" width="4" height="4" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#373737" flood-opacity=".5" in="SourceGraphic" result="flood"/>
+      <feOffset dx="2.000000" dy="4.000000" in="SourceGraphic" result="offset"/>
+      <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+      <feComposite in="SourceGraphic" in2="comp1" result="comp2"/>
+    </filter>
+  </defs>
+  <circle cx="64" cy="64" r="60" fill="#4c4c4c" stroke="#373737" stroke-width="4"/>
+  <g filter="url(#filter2)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m41.696 56.919 5.9071 28.087 1.696-8.3352 2.8336 5.849 1.0447-9.0946 3.3985 13.913 1.3175-17.549 4.3228 16.866 0.70542-9.0259 3.1346 14.891 6.7712-19.23-0.92944 10.006 5.2107-10.936 3.5489 10.025 6.878-24.888z" fill="#f8c365" stroke="#f08117" stroke-width="2"/>
+    <path d="m36 52c-3.5779 13.77-6.7851 33.853-5 40s5 6 5 6 1.7087-32.883 13-37c9.2403-3.369 20.655-3.5008 30 0 11.327 4.2433 13 37 13 37s3.1188 0.04787 5-6c1.8812-6.0479-0.76502-25.743-5-40s-14.194-33-28-33c-15.855 0-24.422 19.23-28 33zm28-27c15.031-0.0256 18 27 18 27-11.304-4.1209-24.727-4.0694-36 0 0 0 2.9689-26.974 18-27z" fill="#9a6fc7" stroke="#6b5a83" stroke-width="8" style="paint-order:stroke fill markers"/>
+  </g>
+</svg>
